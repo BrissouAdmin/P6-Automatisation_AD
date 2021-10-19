@@ -1,0 +1,11 @@
+ID_utilisateur,Prenom,NOM,departement,mail,nom_ouverture_session,Compagny,Nom_PC
+1,Elon,Musk,logistique,elon.musk@akb.lab,elon.musk,Tesla,PC-PYTHON-1
+2,Jeff,Bezos,logistique,jeff.besos@akb.lab,jeff.bezos,Amazon,PC-PYTHON-2
+3,Bernard,Arnault,logistique,bernard.arnault@akb.lab,bernard.arnault,LVMH,PC-PYTHON-3
+4,Bill,Gates,logistique,bill.gates@akb.lab,bill.gates,Microsoft,PC-PYTHON-4
+5,Larry,Ellison,logistique,larry.ellison@akb.lab,larry.ellison,Oracle,PC-PYTHON-5
+6,Mark ,Zuckerberg,logistique,mark.zuckerberg@akb.lab,mark.zuckerberg,Facebook,PC-PYTHON-6
+7,Larry,Page,logistique,larry.page@akb.lab,larry.page,Google,PC-PYTHON-7
+8,Sergey,Brin,logistique,sergey.brin@akb.lab,sergey.brin,Google,PC-PYTHON-8
+9,Warren ,Buffett ,logistique,warren.buffett@akb.lab,warren.buffett,Berkshire Hathaway,PC-PYTHON-9
+10,Mukesh,Ambani,logistique,mukesh.ambani@akb.lab,mukesh.ambani,Reliance Industries,PC-PYTHON-10
